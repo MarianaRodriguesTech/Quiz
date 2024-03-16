@@ -1,8 +1,8 @@
-<h1 align="center"> Tic Tac Toe 🐰 </h1>
+<h1 align="center"> Quiz </h1>
 
 <div>
   
-![Captura de tela 2024-03-16 112757](https://github.com/MarianaRodriguesTech/Quiz/assets/141480630/a678aa8d-c0e2-445e-8412-91af0a00ea58)
+  ![Captura de tela 2024-03-05 052130](https://github.com/MarianaRodriguesTech/Quiz/assets/141480630/a8500482-c83a-4f04-85ad-b8b3967171a2)
   
 </div>
 
@@ -10,7 +10,7 @@
 
 ## Sobre o projeto:
 
-Jogo Tic Tac Toe, no Brasil mais conhecido como jogo da velha.
+Desenvolvido em aula para estudarmos as diversas possibilidades de projetos que podemos criar com JavaScript.
 
 <details>
 <summary>Habilidades aprimoradas</summary>
@@ -22,8 +22,6 @@ Jogo Tic Tac Toe, no Brasil mais conhecido como jogo da velha.
 - Lógica de programação
 
 - JavaScript
-  
-- Estrutura Array 
   
 </details>
 
